@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
-TELEGRAM_TOKEN = "8016305105:AAEJKHnSw8d30cpD155QCfYSQmnnSJjw68E"  
+TELEGRAM_TOKEN = "YOUR_TOKEN_BOT_TELEGRAM"  
 
 CURRENCIES = {
     'دلار': 'price_dollar_rl',
